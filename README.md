@@ -20,5 +20,7 @@ Files Included:
         
 Notes:
 
+  - The song is generated and written to a file called generated_song.txt
+  - A text interpretation of the graph structure that is generated can be found in a file called output.txt that is created and added to throughout the program.
   - The web scraper version is still a little buggy. There is a problem in scraping the lyrics and putting them in a text file for the generator.
   - There is still a small bug in quitting the command line interface in some cases in the song_generator.py version.
