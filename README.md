@@ -7,15 +7,15 @@ Files Included:
   - Song text files
       These files are text files of lyrics that I used to test the program, including lyrics from Eminem and the Strokes.
   - Python program files
-      song.py
+      - song.py
         -> creates stats for the main program including verse length, song length, words per line, etc.
-      graph.py
+      - graph.py
         -> a file containing a graph class, a vertex class, and a population function for creating a Markov chain graph of words used in the lyrics.
-      scraper.py
+      - scraper.py
         -> uses BeautifulSoup to scrape the lyrics off lyricsfreak.com 
-      song_gen_scraper.py
+      - song_gen_scraper.py
         -> this version of the song generator scrapes the lyrics off lyricsfreak.com and runs through the program to generate a song.
-      song_generator.py
+      - song_generator.py
         -> this version of the song generator uses a command line interface to get direct text files from the user to use in generating the song.
         
 Notes:
